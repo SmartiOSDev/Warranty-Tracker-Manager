@@ -9,12 +9,14 @@ When you create an account or use certain features, we may collect:
 	•	Name (if provided)
 	•	Email address
 	•	Login and account information
+	
 1.2 Uploaded Data
 The app allows you to upload and store:
 	•	Product information
 	•	Warranty details
 	•	Images/Photos of receipts or products
 All such data is stored on our secure server and linked to your user account.
+
 1.3 Automatically Collected Information
 For app improvement purposes, we may collect:
 	•	Device information (device model, OS version)
