@@ -64,21 +64,20 @@ If you choose Delete Account inside the app:
 The developer is not liable for data loss caused by user actions, connectivity issues, or misuse of the application.
 
 **Data Sharing & Security**
+
 We do not share your data with third parties except:
 	•	Apple (for subscription verification)
 	•	Service providers for analytics and error reporting
 We use industry-standard security measures to protect your data, but no method of electronic storage is 100% secure.
 
 **Children’s Privacy**
+
 This Service is not intended for children under the age of 13. We do not knowingly collect information from children.
 
 **Changes to This Privacy Policy**
+
 We may update this Privacy Policy from time to time. Updated policies will be posted within the app or on this page.
 Changes become effective immediately after posting.
-
-8. Contact Us
-If you have any questions or suggestions about this Privacy Policy, please contact:
-Email: [Your Support Email] Developer: Harshad Jadav
 
 **Contact Us**
 Email: contactusiosapp@gmail.com
