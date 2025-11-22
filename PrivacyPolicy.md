@@ -4,13 +4,16 @@ This Privacy Policy explains how your information is collected, used, and protec
 By using the Service, you agree to the collection and use of information in accordance with this policy.
 
 **Information We Collect**
+
 1.1 Personal Information
+
 When you create an account or use certain features, we may collect:
 	•	Name (if provided)
 	•	Email address
 	•	Login and account information
 	
 1.2 Uploaded Data
+
 The app allows you to upload and store:
 	•	Product information
 	•	Warranty details
@@ -18,13 +21,16 @@ The app allows you to upload and store:
 All such data is stored on our secure server and linked to your user account.
 
 1.3 Automatically Collected Information
+
 For app improvement purposes, we may collect:
 	•	Device information (device model, OS version)
 	•	App usage data
 	•	Crash logs and diagnostics
+	
 We do not collect location data or any financial information.
 
 **How We Use Your Information**
+
 Your data is used to:
 	•	Provide and maintain the Service
 	•	Sync and restore your information when you log in on any device
@@ -34,6 +40,7 @@ Your data is used to:
 We do not sell or share your personal data with any third party except as required for essential app functions.
 
 **Subscription and Ads Policy**
+
 The Warranty Tracker & Manager app offers an optional one-year subscription to remove advertisements.
 	•	Ads will continue to appear unless a subscription is purchased.
 	•	Subscription is valid for one year from the purchase date.
@@ -41,14 +48,18 @@ The Warranty Tracker & Manager app offers an optional one-year subscription to r
 We do not collect or store any payment information — all transactions are handled by Apple.
 
 **Data Storage, Backup & Deletion**
+
 4.1 Data Storage
 All your information and photos/images are securely stored on our server.
+
 4.2 App Uninstall
 If you uninstall the application or face device issues, your data will not be deleted. You can restore all your information when you log in again with your account.
+
 4.3 Delete Account Option
 If you choose Delete Account inside the app:
 	•	All your data, including images/photos, will be permanently deleted from our server.
 	•	Deleted data cannot be recovered.
+	
 4.4 Disclaimer
 The developer is not liable for data loss caused by user actions, connectivity issues, or misuse of the application.
 
