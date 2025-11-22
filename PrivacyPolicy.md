@@ -1,31 +1,74 @@
 ## Privacy Policy
+Harshad Jadav built the Warranty Tracker & Manager app as a paid application. This Service is provided by Harshad Jadav and is intended for use as is.
+This Privacy Policy explains how your information is collected, used, and protected when you use the Warranty Tracker & Manager app (“Service”).
+By using the Service, you agree to the collection and use of information in accordance with this policy.
 
-Harshad Jadav built the Warranty Tracker & Manager app as a paid app. This SERVICE is provided by Harshad Jadav at some cost and is intended for use as is.
+**Information We Collect**
+1.1 Personal Information
+When you create an account or use certain features, we may collect:
+	•	Name (if provided)
+	•	Email address
+	•	Login and account information
+1.2 Uploaded Data
+The app allows you to upload and store:
+	•	Product information
+	•	Warranty details
+	•	Images/Photos of receipts or products
+All such data is stored on our secure server and linked to your user account.
+1.3 Automatically Collected Information
+For app improvement purposes, we may collect:
+	•	Device information (device model, OS version)
+	•	App usage data
+	•	Crash logs and diagnostics
+We do not collect location data or any financial information.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. 
-The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Warranty Tracker & Manager unless otherwise defined in this Privacy Policy.
+**How We Use Your Information**
+Your data is used to:
+	•	Provide and maintain the Service
+	•	Sync and restore your information when you log in on any device
+	•	Improve app performance and features
+	•	Provide user support
+	•	Manage optional subscriptions (such as ad removal)
+We do not sell or share your personal data with any third party except as required for essential app functions.
 
 **Subscription and Ads Policy**
+The Warranty Tracker & Manager app offers an optional one-year subscription to remove advertisements.
+	•	Ads will continue to appear unless a subscription is purchased.
+	•	Subscription is valid for one year from the purchase date.
+	•	Subscriptions are processed through Apple’s App Store and follow Apple’s payment and renewal policies.
+We do not collect or store any payment information — all transactions are handled by Apple.
 
-The Warranty Tracker & Manager app offers an optional subscription plan to enhance your user experience by removing advertisements. To disable ads within the app, you can purchase a one-year subscription. This subscription is valid for one year from the date of purchase. Please note that ads will continue to be displayed unless a subscription is purchased.
+**Data Storage, Backup & Deletion**
+4.1 Data Storage
+All your information and photos/images are securely stored on our server.
+4.2 App Uninstall
+If you uninstall the application or face device issues, your data will not be deleted. You can restore all your information when you log in again with your account.
+4.3 Delete Account Option
+If you choose Delete Account inside the app:
+	•	All your data, including images/photos, will be permanently deleted from our server.
+	•	Deleted data cannot be recovered.
+4.4 Disclaimer
+The developer is not liable for data loss caused by user actions, connectivity issues, or misuse of the application.
 
-**Data**
+**Data Sharing & Security**
+We do not share your data with third parties except:
+	•	Apple (for subscription verification)
+	•	Service providers for analytics and error reporting
+We use industry-standard security measures to protect your data, but no method of electronic storage is 100% secure.
 
-All information and Images/Photos are stored on our server, removal of the application or due to any other issues, the images and information will not deleted. 
-Your all information are store with your login, so your all information will restored in your device when you will login again.
-If you will choose Delete Account in app, then we will remove/delete your all information with images/photos from server and then it will not restored.
-The developer of this application is not liable for any such things.
+**Children’s Privacy**
+This Service is not intended for children under the age of 13. We do not knowingly collect information from children.
 
 **Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time. Updated policies will be posted within the app or on this page.
+Changes become effective immediately after posting.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+8. Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact:
+Email: [Your Support Email] Developer: Harshad Jadav
 
 **Contact Us**
-
+Email: contactusiosapp@gmail.com
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
 This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
